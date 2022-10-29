@@ -53,7 +53,7 @@ if(isset($_POST['submit']))
 
     if($insert_check){
         ?>
-        <script>alert("data inserted successfully")</script>
+        <script>alert("data inserted successfuly by kartik")</script>
         <?php
     }
     else{
